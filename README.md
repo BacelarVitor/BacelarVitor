@@ -56,9 +56,10 @@
 <a href="https://linkedin.com/in/vitorbacelar" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vitor Bacelar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+ <!--
 <a href="https://instagram.com/bacelar_vitor" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-bacelar_vitor-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+</a>-->
  </a>
  <a href="vitor.bacelar@protonmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=protonmail" alt="email"/>

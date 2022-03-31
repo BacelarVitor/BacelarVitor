@@ -45,7 +45,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=BacelarVitor&show_icons=true&theme=blueberry" alt="BacelarVitor's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacelarVitor&layout=compact&theme=blueberry" alt="BacelarVitor's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacelarVitor&layout=compact&langs_count=6&theme=blueberry" alt="BacelarVitor's most languages"/>
 </p>
 
 <br>

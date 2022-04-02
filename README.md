@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Svelte, Flutter and Golang
 
-<!-- - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev) -->
+- 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)
 
 <!-- - ▶️ I regularly post videos on [youtube.com/codeninja](https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ) -->
 

@@ -6,37 +6,28 @@
 
 - 🔭 I’m currently working at [Intcom](https://intcom.com.br/en/)
 
-- 🌱 I’m currently learning Svelte, Flutter and Golang
+- 🌱 ~~I’m currently learning Svelte, Flutter and Golang~~
 
 - 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)
 
-<!-- - ▶️ I regularly post videos on [youtube.com/codeninja](https://www.youtube.com/channel/UCFalM59mW7O8ARBIfpBIvGQ) -->
-
- - 💬 Ask me about **One Piece, C#, Golang, Svelte, Flutter, JavaScript, TypeScript HTML, CSS e SQL
+ - 💬 Ask me about **One Piece, C#, Angular, Flutter, JavaScript, TypeScript, Golang, Svelte, HTML, CSS e SQL 
 
  - ⚡ Fun fact **I code listening to classic and eletronic music** 
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-
-![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
-![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net)&nbsp;
-![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&logo=visual-studio&logoColor=5e43e0)&nbsp;
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vitor-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vitor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
+  <img align="center" alt="Vitor-Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 
 <br><br>
@@ -45,7 +36,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=BacelarVitor&show_icons=true&theme=blueberry" alt="BacelarVitor's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacelarVitor&layout=compact&langs_count=6&theme=blueberry" alt="BacelarVitor's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacelarVitor&layout=compact&langs_count=8&theme=blueberry" alt="BacelarVitor's most languages"/>
 </p>
 
 <br>

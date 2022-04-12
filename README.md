@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at [Intcom](https://intcom.com.br/en/)
 
-- 🌱 ~~I’m currently learning Svelte, Flutter and Golang~~
+- 🌱 I’m currently learning Svelte, Flutter and Golang
 
 - 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)
 

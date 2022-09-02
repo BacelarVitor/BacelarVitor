@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working at [Intcom](https://intcom.com.br/en/)
 
-- 🌱 I’m currently learning React and Golang
+- 🌱 I’m currently learning Svelte and Golang
 
 - 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)
 
- - 💬 Ask me about **One Piece, Golang, React, HTML, CSS e SQL 
+ - 💬 Ask me about **One Piece, Golang, Svelte, HTML, CSS, SQL & Flutter
 
  - ⚡ Fun fact **I code listening to classic and eletronic music** 
 
@@ -19,7 +19,8 @@
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Vitor-Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
+   <img align="center" alt="Vitor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
    <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

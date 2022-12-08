@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)
 
- - 💬 Ask me about **One Piece, Golang, .NET, Angular, Svelte, HTML, CSS, SQL & Flutter
+ - 💬 Ask me about **One Piece, Golang, .NET, Angular, Svelte, SQL & Flutter
 
  - ⚡ Fun fact **I code listening to classic and eletronic music** 
 
@@ -20,12 +20,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
    <img align="center" alt="Vitor-Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
-   <img align="center" alt="Vitor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
-   <img align="center" alt="Vitor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+   <img align="center" alt="Vitor-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
  <!--

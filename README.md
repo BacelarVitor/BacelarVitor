@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working at [Intcom](https://intcom.com.br/en/)
 
-- 🌱 I’m currently learning Svelte and Golang
+- 🌱 I’m currently learning Svelte
 
-- 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)
+<!-- 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)-->
 
- - 💬 Ask me about **One Piece, Golang, .NET, Angular, Svelte & SQL
+ - 💬 Ask me about **One Piece, .NET, Angular, Svelte & SQL
 
  - ⚡ Fun fact **I code listening to classic and eletronic music** 
 
@@ -18,7 +18,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
-   <img align="center" alt="Vitor-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+   <!--<img align="center" alt="Vitor-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">-->
    <img align="center" alt="Vitor-Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
    <img align="center" alt="Vitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Vitor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">

@@ -4,15 +4,13 @@
 
 - 🔥 FullStack Dev & passionate about contributing to technology.
 
-- 🔭 I’m currently working at [Intcom](https://intcom.com.br/en/)
-
-- 🌱 I’m currently learning Svelte, Go and Python
+- 🌱 I’m currently learning Svelte and Go 
 
 <!-- 👨‍💻 All of my projects are available at [notafunction.dev](https://notafunction.dev)-->
 
  - 💬 Ask me about **One Piece, .NET, Angular, Svelte & Go
 
- - ⚡ Fun fact **I code listening to classic and eletronic music** 
+ - ⚡ Fun fact **I code listening to classical and electronic music** 
 
 <br><br>
 

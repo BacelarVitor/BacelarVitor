@@ -4,11 +4,11 @@
 
 - 🔥 FullStack Dev & passionate about contributing to technology.
 
-- 🌱 I’m currently learning Svelte, Flutter and Go 
+- 🌱 I’m currently learning Svelte and Go 
 
  - 👨‍💻 All of my projects are available at [vitorbacelar.co](https://vitorbacelar.co)
 
- - 💬 Ask me about **One Piece, JJK, .NET, Angular, Svelte, Flutter & Go
+ - 💬 Ask me about **One Piece, JJK, .NET, Angular, Svelte & Go
 
  - ⚡ Fun fact **I code listening to classical and electronic music** 
 
